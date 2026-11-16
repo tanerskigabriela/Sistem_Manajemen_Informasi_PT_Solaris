@@ -1,8 +1,6 @@
 # KONTRAK.md — Project Solaris (Kelompok 1, RSI Kelas A)
 
-Kontrak ini berisi kesepakatan bersama anggota kelompok yaitu nama tabel dan kolom, nilai status, nama role, format response API, kepemilikan file, dan cara mencatat log. Sumber utamanya TSD v1.1 (Bagian 3, 4, 5) dan FSD v2.0 (Bagian 4 dan 6). Bagian 15 mencatat hal-hal yang sengaja dibuat berbeda dari TSD supaya bisa mengikuti kode praktikum.
-
-
+Kontrak ini berisi kesepakatan bersama anggota kelompok yaitu nama tabel dan kolom, nilai status, nama role, format response API, kepemilikan file, dan cara mencatat log. Sumber utamanya TSD v1.1 (Bagian 3, 4, 5) dan FSD v2.0 (Bagian 4 dan 6).
 ---
 
 ## 1. Pembagian anggota
