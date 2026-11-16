@@ -1,0 +1,10 @@
+USE master;
+GO
+IF DB_ID(N'solaris_db') IS NOT NULL
+BEGIN
+    ALTER DATABASE solaris_db SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+    DROP DATABASE solaris_db;
+END
+GO
+CREATE DATABASE solaris_db;
+GO
